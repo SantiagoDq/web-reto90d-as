@@ -1,0 +1,112 @@
+.T1{
+    font-size: 100px;
+    text-align: left;
+        color: black
+        
+        
+    
+}
+.Bt{
+    font-size: 50px;
+    text-align: left;
+        color: Black
+}
+.Bt{
+       border: none; 
+            border-radius: 20px;
+            cursor: pointer;
+            position: absolute;
+            top: 570px; 
+            left: 300px;
+            font-family: sans-serif; 
+}
+.Bt2{
+    font-size: 50px;
+    text-align: left;
+        color: Black
+}
+.Bt2{
+    border: none; 
+         border-radius: 20px;
+         cursor: pointer;
+         position: absolute;
+         top: 600px; 
+         left: 969px;
+         font-family: sans-serif; 
+}
+.gradiente{
+    width: 1700px;
+    height: 1000px;
+    background-image: linear-gradient(to right, red , maroon);
+    
+   
+}
+.fitwomen{
+    width:536px;
+    height:720px;
+    position: fixed;
+    margin-top: -1000px;
+}
+.ti{
+    position: absolute;
+            top: 550px; 
+            left: 300px;
+}
+
+.ct1{
+    
+    position: absolute;
+    top: 270px; 
+    left: 983px;
+
+}
+.ct2{
+    font-size: 50px;
+    position: absolute;
+    top: 470px; 
+    left: 995px;
+
+}
+.ct3{
+    
+    position: absolute;
+    top: 270px; 
+    left: 180px;
+
+}
+.ct4{
+    font-size: 50px;
+    position: absolute;
+    top: 600px; 
+    left: 180px;
+
+}
+.ct5{
+    
+    position: absolute;
+    top: 270px; 
+    left: 900px;
+
+}
+.ct6{
+    font-size: 50px;
+    position: absolute;
+    top: 600px; 
+    left: 900px;
+   
+
+}
+.Bt3{
+    font-size: 50px;
+    text-align: left;
+        color: Black
+}
+.Bt3{
+    border: none; 
+         border-radius: 20px;
+         cursor: pointer;
+         position: absolute;
+         top: 800px; 
+         left: 550px;
+         font-family:  sans-serif; 
+}
